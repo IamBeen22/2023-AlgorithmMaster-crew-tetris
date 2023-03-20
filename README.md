@@ -1,2 +1,9 @@
-# 2023-AlgorithmMaster-crew-tetris
-진짜진짜장
+# ✅ Tetris
+## use language
++ html   
++ css   
++ javascript   
+  - node.js   
+  - ~~db(mysql)~~   
+## How to play
+---
